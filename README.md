@@ -6,7 +6,7 @@ Please be sure to run `npm install`.
 
 Run `ng serve` to see the expected behavior.
 
-Run `ng server --prod` to see the bug.
+Run `ng serve --prod` to see the bug.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
